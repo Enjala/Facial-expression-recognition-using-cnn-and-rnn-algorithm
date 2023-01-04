@@ -1,9 +1,9 @@
 # Facial-expression-recognition-using-cnn-and-rnn-algorithm
 
+    ----------------- total documentation---------
 
 
-
-ABSTRACT
+**ABSTRACT**
 In current days for identifying a person emotion takes a lot of time because of varying expressions and features present in human faces. There was a lot of study going on to detect the several types of expressions from human’s in different environments such as work ,play ,relax, break and so on. Home room correspondence includes instructor's conduct and understudy's reactions. There was a lot of research work done on the investigation of below average students and average students by the instructor to identify those students and take some special care. In the primitive day’s almost human emotions are identified manually based on the current expression and feelings of the human’s in day to day environment. But there was no accurate method designed in primitive days for identifying the emotions or expressions automatically. 
 
 This emotion recognition is becoming an interesting aspect which is used mainly for diagnosis of human brain and psychological disorders. In a recent survey conducted by a team of experts, we came to know that deep learning has gained a lot of user’s attention in the field of image classification. These emotions is used for not only diagnosis of human brain but also used as a recommended systems to assist users in finding items that match their needs and preferences. Hence this motivated me to develop a system which can effectively and efficiently recognizes emotions from the facial expressions of the user. In this proposed article we try to develop an application which can be used for prediction of expressions of both still images. Here we try to develop a system by using two well-known models such as CNN and RNN and then check which model suits best for facial expression recognition. The highest probability value to the corresponding expression will be the predicted expression for the image.
